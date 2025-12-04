@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 24px;
+  background: #f7f9fc;
+}
+header { margin-bottom: 16px; }
+#quizzes > .quiz { background: white; padding: 12px; margin-bottom: 8px; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
+button { cursor: pointer; }
+.question { margin-bottom: 12px; padding: 10px; background: #fff; border-radius: 6px; }
+.result-correct { color: green; }
+.result-wrong { color: red; }
